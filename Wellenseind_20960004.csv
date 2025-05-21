@@ -1,0 +1,2 @@
+﻿"Recording","Timestamp","Species Text","Classification source","Calls [#]","Mean Peak Frequency [kHz]","Mean Max Frequency [kHz]","Mean Min Frequency [kHz]","Mean Call Length [ms]","Mean Call Distance [ms]","Notes","Rating","Marked","Temperature [°C]","Humidity [%r.H.]","Latitude [WGS84]","Longitude [WGS84]","Device"
+"20960004","14-5-2025 23:04:28","Myotis spec.","User","60","49,5","93,0","48,1","4,0","85","","","False","17,0","36,0","51,377680","5,197100","BATLOGGER M2 (25112096)"
